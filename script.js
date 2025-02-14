@@ -1,1 +1,1 @@
-console.log("Добро пожаловать на мой сайт!");
+console.log("Meniň saýtyma hoş geldiňiz!");
