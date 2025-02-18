@@ -1,1 +1,1 @@
-console.log("Meniň saýtyma hoş geldiňiz!");
+console.log("Balaşow");
